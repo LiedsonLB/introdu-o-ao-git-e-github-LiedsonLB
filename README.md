@@ -13,4 +13,3 @@ Um curso excelente tanto para quem está começando quanto para quem já entende
 
 # Meu README.md de perfil: 😁
 Liedson LB: <a>https://github.com/LiedsonLB/LiedsonLB</a>
->>>>>>> master
